@@ -43,7 +43,7 @@
 		"editorSuggestWidget.selectedBackground": "#2c313a",
 		"editorWhitespace.foreground": "#ffffff1d",
 		"editorWidget.background": "#21252b",
-		"editorWidget.resizeBorder": "#42557b",
+		"editorWidget.resizeBorder": "#344361", // #42557b, #344361
 		"focusBorder": "#3e4452",
 		"gitDecoration.addedResourceForeground": "#81b88b",
 		"gitDecoration.conflictingResourceForeground": "#6c6cc4",
@@ -57,8 +57,8 @@
 		"gitDecoration.untrackedResourceForeground": "#73c991",
 		"input.background": "#272c34",
 		"input.foreground": "#abb2bf",
-		"inputOption.activeBackground": "#42557b",
-		"inputOption.hoverBackground": "#42557b",
+		"inputOption.activeBackground": "#344361", // #42557b, #344361
+		"inputOption.hoverBackground": "#344361", // #42557b, #344361
 		"list.activeSelectionBackground": "#2c313a",
 		"list.activeSelectionForeground": "#d7dae0",
 		"list.dropBackground": "#747d9180",
@@ -121,7 +121,7 @@
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.inactiveBackground": "#21252b",
 		"titleBar.inactiveForeground": "#6b717d",
-		"toolbar.hoverBackground": "#42557b",
+		"toolbar.hoverBackground": "#42557b", // #344361, #42557b
 		"tree.indentGuidesStroke": "#ffffff1d",
 		"walkThrough.embeddedEditorBackground": "#2e3440"
 		//"activityBar.activeBorder": "#d7dae0",

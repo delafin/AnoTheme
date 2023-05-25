@@ -58,6 +58,7 @@
 		"input.background": "#272c34",
 		"input.foreground": "#abb2bf",
 		"inputOption.activeBackground": "#344361", // #42557b, #344361
+		"inputOption.activeBorder": "#3794ff",
 		"inputOption.hoverBackground": "#344361", // #42557b, #344361
 		"list.activeSelectionBackground": "#2c313a",
 		"list.activeSelectionForeground": "#d7dae0",

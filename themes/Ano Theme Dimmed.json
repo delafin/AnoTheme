@@ -58,13 +58,15 @@
 		"input.background": "#272c34",
 		"input.foreground": "#abb2bf",
 		"inputOption.activeBackground": "#344361", // #42557b, #344361
-		"inputOption.activeBorder": "#3794ff",
+		"inputOption.activeBorder": "#0078d4", // #3794ff, #1b8dff, #0078d4
 		"inputOption.hoverBackground": "#344361", // #42557b, #344361
 		"list.activeSelectionBackground": "#2c313a",
 		"list.activeSelectionForeground": "#d7dae0",
 		"list.dropBackground": "#747d9180",
+		"list.filterMatchBorder": "#1b8dff",
 		"list.focusBackground": "#323842",
 		"list.focusForeground": "#f0f0f0",
+		"list.focusHighlightForeground": "#1b8dff",
 		"list.highlightForeground": "#ecebeb",
 		"list.hoverBackground": "#2c313a",
 		"list.hoverForeground": "#abb2bf",
@@ -103,8 +105,8 @@
 		"terminal.ansiBlack": "#3f4451",
 		"terminal.ansiBlue": "#4aa5f0",
 		"terminal.ansiBrightBlack": "#4f5666",
-		"terminal.ansiBrightBlue": "#4dc4ff",
-		"terminal.ansiBrightCyan": "#4cd1e0",
+		"terminal.ansiBrightBlue": "#058c32",
+		"terminal.ansiBrightCyan": "#4dc4ff",
 		"terminal.ansiBrightGreen": "#a5e075",
 		"terminal.ansiBrightMagenta": "#de73ff",
 		"terminal.ansiBrightRed": "#ff616e",
@@ -126,7 +128,7 @@
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.inactiveBackground": "#21252b",
 		"titleBar.inactiveForeground": "#6b717d",
-		"toolbar.hoverBackground": "#42557b", // #344361, #42557b
+		"toolbar.hoverBackground": "#344361", // #344361, #42557b
 		"tree.indentGuidesStroke": "#ffffff1d",
 		"walkThrough.embeddedEditorBackground": "#2e3440"
 		//"activityBar.activeBorder": "#d7dae0",

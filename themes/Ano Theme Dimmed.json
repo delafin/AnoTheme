@@ -19,6 +19,7 @@
 		"editor.foreground": "#cdd3de",
 		"editor.hoverHighlightBackground": "#4e72b058",
 		"editor.lineHighlightBackground": "#2b313b",
+		"editor.linkedEditingBackground": "#b8634960", // #89623560
 		"editor.selectionBackground": "#67769660", // #264f78, #67769660
 		"editor.selectionHighlightBackground": "#ffffff10",
 		"editor.selectionHighlightBorder": "#dddddd",

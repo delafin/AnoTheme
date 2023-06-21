@@ -10,9 +10,14 @@
 
 ### Supporting
 
-Like this free project? Consider supporting me to keep going.
+<div align="center" >
+	Like this free project? Consider supporting me to keep going.
+</div>
 
-<a href="https://www.buymeacoffee.com/lifinhime" target="_blank"><img src="icons/buymeacoffee-orange.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 140p !important;"></a>
+<div align="top" style="display: flex; align-items: start; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<a href="https://www.buymeacoffee.com/lifinhime" target="_blank"><img src="icons/buymeacoffee-orange.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 140p !important; margin-right: 20px"></a><a href="https://www.patreon.com/lifinhime" target="_blank"><img src="icons/patreon.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 140p !important;"></a>
+
+</div>
 
 ## License
 

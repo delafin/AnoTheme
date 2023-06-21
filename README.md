@@ -4,6 +4,10 @@
 
 <img src='img/theme.png' alt='theme' />
 
+## Color Palette
+
+<img src='img/ano-theme-bg.svg' alt='palette' style="width: 100%" />
+
 ## Install
 
 1. Go to VS Marketplace.

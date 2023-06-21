@@ -2,6 +2,8 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
+<img src='img/theme.png' alt='theme' />
+
 ## Install
 
 1. Go to VS Marketplace.

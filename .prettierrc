@@ -1,0 +1,55 @@
+{
+	"printWidth": 110,
+	"tabWidth": 2,
+	"useTabs": true,
+	"jsxSingleQuote": true,
+	"singleQuote": true,
+	"singleAttributePerLine": false,
+	"trailingComma": "none",
+	"importOrder": [
+		"^(react)$|^(react-router-dom)$",
+		"^(next)",
+		"<THIRD_PARTY_MODULES>",
+		"^@server/(.*)$",
+		"^~server/(.*)$",
+		"^@ui/(.*)$",
+		"^~ui/(.*)$",
+		"(.js|.ts|.jsx|.tsx)$",
+		"(.jpg|.jpeg|.png|.svg|.tiff)$",
+		"(.scss|.sass|.css)$",
+		"^([./]|[../])",
+		".html$",
+		"^node:"
+	],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"overrides": [
+		{
+			"files": ["**/*.css", "**/*.scss", "**/*.html", ".prettierrc"],
+			"options": { "singleQuote": false, "singleAttributePerLine": false }
+		},
+		{
+			"files": ["**/*.code-snippets", "AllSnippets.code-snippets.code-snippets"],
+			"options": { "singleQuote": false, "printWidth": 100, "singleAttributePerLine": true }
+		},
+		{
+			"files": ["**/*.js", "**/*.jsx"],
+			"options": {
+				"singleQuote": true,
+				"jsxSingleQuote": true,
+				"printWidth": 120,
+				"tabWidth": 2,
+				"singleAttributePerLine": true
+			}
+		},
+		{
+			"files": ["**/*.ts", "**/*.tsx"],
+			"options": {
+				"jsxSingleQuote": true,
+				"singleQuote": true,
+				"tabWidth": 2,
+				"printWidth": 120
+			}
+		}
+	]
+}

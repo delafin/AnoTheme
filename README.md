@@ -23,4 +23,4 @@
 
 ## License
 
-[MIT License](./LICENSE) © Ano Theme
+[MIT License](./LICENSE.txt) © Ano Theme

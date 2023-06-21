@@ -10,7 +10,7 @@
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
 
-### Supporting
+## Supporting
 
 <p align="center" >
 	Like this free project? Consider supporting me to keep going.

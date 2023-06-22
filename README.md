@@ -1,6 +1,6 @@
-# Ano Theme for [Visual Studio Code](http://code.visualstudio.com)
+# <img src='icons/ano-theme-icon.svg' alt='palette' align='bottom' style='width: 30px; height: 30px' />no Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> A dark Ano theme for [Visual Studio Code](http://code.visualstudio.com).
 
 <img src='images/theme.png' alt='theme' />
 
@@ -27,4 +27,4 @@
 
 ## License
 
-[MIT License](./LICENSE.txt) © <img src='icons/ano-theme-icon.svg' alt='palette' align='bottom' style='width: 30px; height: 30px' />no Theme
+[MIT License](./LICENSE.txt) © Ano Theme

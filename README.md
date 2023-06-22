@@ -1,6 +1,6 @@
 # <img src='icons/ano-theme-icon.svg' alt='palette' align='bottom' style='width: 30px; height: 30px' />no Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-> A dark Ano theme for [Visual Studio Code](http://code.visualstudio.com).
+> Ano Theme - Dark:
 
 <img src='images/theme.png' alt='theme' />
 

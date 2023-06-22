@@ -14,6 +14,10 @@
 2. Click on the 'Install' button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
 
+## Contributing
+
+If you'd like to contribute to this theme, please read the [contributing guidelines](./CONTRIBUTING.md).
+
 ## Supporting
 
 <p align='center' >

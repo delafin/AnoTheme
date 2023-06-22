@@ -2,7 +2,20 @@
 	"name": "ano-theme",
 	"displayName": "Ano Theme",
 	"description": "Ano Theme",
+	"license": "MIT",
 	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/delafin/AnoTheme"
+	},
+	"keywords": [
+		"Ano Theme",
+		"Oceanic Next",
+		"Rainbow",
+		"Dark theme",
+		"VS Code Theme"
+	],
+	"icon": "icons/ano-theme-icon.png",
 	"engines": {
 		"vscode": "^1.76.0"
 	},
@@ -12,10 +25,13 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ano Theme",
+				"label": "Ano Theme - Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ano-theme-dark.json"
 			}
 		]
+	},
+	"__metadata": {
+		"publisherDisplayName": "Maksym Marholin"
 	}
 }

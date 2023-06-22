@@ -1,4 +1,4 @@
-# Ano Theme for [Visual Studio Code](http://code.visualstudio.com)
+# <img src='icons/ano-theme-icon.svg' alt='palette' style='width: 128px; height: 128px' /> Ano Theme for [Visual Studio Code](http://code.visualstudio.com)
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 

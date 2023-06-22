@@ -2,11 +2,11 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-<img src='img/theme.png' alt='theme' />
+<img src='images/theme.png' alt='theme' />
 
 ## Color Palette
 
-<img src='img/ano-theme-bg.svg' alt='palette' style="width: 100%" />
+<img src='images/ano-theme-bg.svg' alt='palette' style="width: 100%" />
 
 ## Install
 

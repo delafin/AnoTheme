@@ -1,6 +1,6 @@
 # Ano Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-# Navigation:
+## Navigation:
 
 - <strong>Previev</strong>
   - [<strong>Ano Theme - Dark</strong>](<#Ano Theme - Dark>)
@@ -8,9 +8,9 @@
 - [<strong>Recommended Settings</strong>](<#Recommended settings>)
 - [<strong>Override Theme Colors</strong>](<#Override Theme Colors>)
 
-<a name='Ano Theme - Dark'></a>
+## Previev:
 
-# Previev:
+<a name='Ano Theme - Dark'></a>
 
 > Ano Theme - Dark
 

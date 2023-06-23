@@ -34,5 +34,8 @@
 	},
 	"__metadata": {
 		"publisherDisplayName": "Maksym Marholin"
+	},
+	"devDependencies": {
+		"vsce": "^2.15.0"
 	}
 }

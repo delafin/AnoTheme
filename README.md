@@ -6,7 +6,7 @@
 
 ## Color Palette
 
-<img src='images/ano-theme-bg.svg' alt='palette' style='width: 100%' />
+<img src='images/ano-theme-bg.png' alt='palette' style='width: 100%' />
 
 ## Install
 
@@ -52,7 +52,7 @@ If you'd like to contribute to this theme, please read the [contributing guideli
 </p>
 
 <div align='center' style='display: flex; align-items: start; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px'>
-<a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='icons/buymeacoffee-orange.svg' alt='Buy Me A Coffee' style='height: 40px !important;width: 140p !important; margin-right: 20px'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='icons/patreon.svg' alt='Patreon' style='height: 40px !important;width: 140p !important;'></a>
+<a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='icons/buymeacoffee-orange.png' alt='Buy Me A Coffee' style='height: 40px !important;width: 140p !important; margin-right: 20px'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='icons/patreon.png' alt='Patreon' style='height: 40px !important;width: 140p !important;'></a>
 
 </div>
 

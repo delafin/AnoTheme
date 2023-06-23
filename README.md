@@ -58,7 +58,6 @@ Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) befo
 "editor.fontLigatures": true,
 "editor.letterSpacing": 0.4,
 ```
-
 <a name='Override Theme Colors'></a>
 
 ## Override Theme Colors
@@ -66,22 +65,22 @@ Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) befo
 In addition to the default color scheme provided by this VS Code theme, you have the flexibility to override specific colors and further customize the visual appearance of your coding environment. The "Override theme colors" feature allows you to personalize the theme by modifying specific color values. Here are some examples of how you can utilize this feature:
 
 ```js
-	// Modify colors such as syntax highlighting to suit your preferences.
-	"editor.tokenColorCustomizations": {
-		"textMateRules": [
-			{
-				"scope": "support.type, meta.type.annotation, support.type.primitive, support.type.builtin",
-				"settings": {
-					"foreground": "#d5b496"
-				}
-			},
-			// ...
-		]
-	}
+// Modify colors such as syntax highlighting to suit your preferences.
+"editor.tokenColorCustomizations": {
+  "textMateRules": [
+    {
+      "scope": "support.type, meta.type.annotation, support.type.primitive, support.type.builtin",
+      "settings": {
+        "foreground": "#d5b496"
+      }
+    },
+    // ...
+  ]
+}
 // Tailor the visual aspects of the editor to make it more visually appealing and conducive to your coding workflow.
 "workbench.colorCustomizations": {
-	"editorCursor.foreground": "#1b8dff",
-	// ...
+  "editorCursor.foreground": "#1b8dff",
+  // ...
 }
 
 ```

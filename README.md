@@ -7,7 +7,9 @@
 - [<strong>Installation</strong>](<#Installation>)
 - [<strong>Recommended Settings</strong>](<#Recommended settings>)
 - [<strong>Override Theme Colors</strong>](<#Override Theme Colors>)
-
+- [<strong>Contributing</strong>](<#Contributing>)
+- [<strong>Supporting</strong>](<#Supporting>)
+  
 ## Previev:
 
 <a name='Ano Theme - Dark'></a>
@@ -85,10 +87,13 @@ In addition to the default color scheme provided by this VS Code theme, you have
 },
 
 ```
+<a name='Contributing'></a>
 
 ## Contributing
 
 If you'd like to contribute to this theme, please read the [contributing guidelines](./CONTRIBUTING.md).
+
+<a name='Supporting'></a>
 
 ## Supporting
 

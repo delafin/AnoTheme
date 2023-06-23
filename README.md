@@ -10,6 +10,8 @@
 
 <a name='Ano Theme - Dark'></a>
 
+# Previev:
+
 > Ano Theme - Dark
 
 <img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/images/theme.png' alt='theme' />

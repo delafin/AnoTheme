@@ -82,7 +82,7 @@ In addition to the default color scheme provided by this VS Code theme, you have
 "workbench.colorCustomizations": {
   "editorCursor.foreground": "#1b8dff",
   // ...
-}
+},
 
 ```
 

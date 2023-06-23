@@ -13,13 +13,12 @@
 1. Go to VS Marketplace.
 2. Click on the 'Install' button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
-4.
 
 ## Settings
 
 These additional settings are optional and cater to personal preferences. Feel free to experiment and fine-tune them to create a coding environment that not only looks visually pleasing but also enhances your productivity and coding enjoyment.
 
-Install the [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) beforehand.
+Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) beforehand to set up the <code>editor.fontFamily</code>.
 
 ```json
 "editor.cursorWidth": 5,

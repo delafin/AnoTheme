@@ -76,7 +76,8 @@ In addition to the default color scheme provided by this VS Code theme, you have
     },
     // ...
   ]
-}
+},
+
 // Tailor the visual aspects of the editor to make it more visually appealing and conducive to your coding workflow.
 "workbench.colorCustomizations": {
   "editorCursor.foreground": "#1b8dff",

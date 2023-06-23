@@ -17,11 +17,11 @@
 
 > Ano Theme - Dark
 
-<img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/images/theme.png' alt='theme' />
+<img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme.png' alt='theme' />
 
 ## Color Palette
 
-<img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/images/ano-theme-bg.png' alt='palette' style='width: 100%' />
+<img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/ano-theme-bg.png' alt='palette' style='width: 100%' />
 
 <a name='Installation'></a>
 
@@ -103,7 +103,7 @@ If you'd like to contribute to this theme, please read the [contributing guideli
 </p>
 
 <div align='center' style='display: flex; align-items: start; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px'>
-<a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/icons/buymeacoffee-orange.png' alt='Buy Me A Coffee' style='height: 40px !important;width: 140p !important; margin-right: 20px'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/icons/patreon.png' alt='Patreon' style='height: 40px !important;width: 140p !important;'></a>
+<a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/icons/buymeacoffee-orange.png' alt='Buy Me A Coffee' style='height: 40px !important;width: 140p !important; margin-right: 20px'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/icons/patreon.png' alt='Patreon' style='height: 40px !important;width: 140p !important;'></a>
 
 </div>
 

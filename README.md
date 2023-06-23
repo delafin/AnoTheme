@@ -13,6 +13,32 @@
 1. Go to VS Marketplace.
 2. Click on the 'Install' button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
+4.
+
+## Settings
+
+These additional settings are optional and cater to personal preferences. Feel free to experiment and fine-tune them to create a coding environment that not only looks visually pleasing but also enhances your productivity and coding enjoyment.
+
+```json
+"editor.cursorWidth": 5,
+"editor.minimap.enabled": false,
+"editor.bracketPairColorization.enabled": true,
+"editor.guides.bracketPairsHorizontal": false,
+"editor.guides.bracketPairs": "active",
+"editor.matchBrackets": "near",
+"editor.multiCursorModifier": "ctrlCmd",
+
+"editor.tabSize": 2,
+"editor.insertSpaces": false,
+"editor.detectIndentation": false,
+"editor.wordWrap": "wordWrapColumn",
+"editor.wordWrapColumn": 115,
+
+"editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+"editor.fontSize": 20,
+"editor.fontLigatures": true,
+"editor.letterSpacing": 0.4,
+```
 
 ## Contributing
 

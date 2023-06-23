@@ -9,7 +9,8 @@
 - [<strong>Override Theme Colors</strong>](<#Override Theme Colors>)
 - [<strong>Contributing</strong>](<#Contributing>)
 - [<strong>Supporting</strong>](<#Supporting>)
-  
+- [<strong>License</strong>](<#License>)
+
 ## Previev:
 
 <a name='Ano Theme - Dark'></a>
@@ -105,6 +106,8 @@ If you'd like to contribute to this theme, please read the [contributing guideli
 <a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/icons/buymeacoffee-orange.png' alt='Buy Me A Coffee' style='height: 40px !important;width: 140p !important; margin-right: 20px'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='https://github.com/delafin/AnoTheme/blob/ca2b908ea88d57bcecbe12658b4d75e10ee81fdc/icons/patreon.png' alt='Patreon' style='height: 40px !important;width: 140p !important;'></a>
 
 </div>
+
+<a name='License'></a>
 
 ## License
 

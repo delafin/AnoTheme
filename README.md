@@ -19,6 +19,8 @@
 
 These additional settings are optional and cater to personal preferences. Feel free to experiment and fine-tune them to create a coding environment that not only looks visually pleasing but also enhances your productivity and coding enjoyment.
 
+Install the [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) beforehand.
+
 ```json
 "editor.cursorWidth": 5,
 "editor.minimap.enabled": false,

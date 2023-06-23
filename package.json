@@ -19,7 +19,7 @@
 		"Dark theme",
 		"VS Code Theme"
 	],
-	"icon": "icons/ano-theme-icon.png",
+	"icon": "./icons/ano-theme-icon.png",
 	"engines": {
 		"vscode": "^1.76.0"
 	},

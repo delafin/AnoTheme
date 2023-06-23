@@ -3,19 +3,19 @@
 ## Navigation:
 
 - <strong>Previev</strong>
-  - [<strong>Ano Theme - Dark</strong>](<#Ano Theme - Dark>)
+  - [<strong>Ano Theme - Dark</strong>](<#AnoThemeDark>)
 - [<strong>Installation</strong>](<#Installation>)
-- [<strong>Recommended Settings</strong>](<#Recommended settings>)
-- [<strong>Override Theme Colors</strong>](<#Override Theme Colors>)
+- [<strong>Recommended Settings</strong>](<#RecommendedSettings>)
+- [<strong>Override Theme Colors</strong>](<#OverrideThemeColors>)
 - [<strong>Contributing</strong>](<#Contributing>)
 - [<strong>Supporting</strong>](<#Supporting>)
 - [<strong>License</strong>](<#License>)
 
 ## Previev:
 
-<a name='Ano Theme - Dark'></a>
+<a name='AnoThemeDark'></a>
 
-> Ano Theme - Dark
+<strong>Ano Theme - Dark</strong>
 
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme.png' alt='theme' />
 
@@ -31,7 +31,7 @@
 2. Click on the 'Install' button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
 
-<a name='Recommended settings'></a>
+<a name='RecommendedSettings'></a>
 
 ## Settings
 
@@ -61,7 +61,7 @@ Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) befo
 "editor.fontLigatures": true,
 "editor.letterSpacing": 0.4,
 ```
-<a name='Override Theme Colors'></a>
+<a name='OverrideThemeColors'></a>
 
 ## Override Theme Colors
 

@@ -3,10 +3,10 @@
 # Navigation:
 
 - <strong>Previev</strong>
-  - [<strong>Ano Theme - Dark</strong>](#Ano Theme - Dark)
-- [<strong>Installation</strong>](#Installation)
-- [<strong>Recommended Settings</strong>](#Recommended settings)
-- [<strong>Override Theme Colors</strong>](#Override Theme Colors)
+  - [<strong>Ano Theme - Dark</strong>](<#Ano Theme - Dark>)
+- [<strong>Installation</strong>](<#Installation>)
+- [<strong>Recommended Settings</strong>](<#Recommended settings>)
+- [<strong>Override Theme Colors</strong>](<#Override Theme Colors>)
 
 <a name='Ano Theme - Dark'></a>
 

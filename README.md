@@ -15,11 +15,11 @@
 
 <a name='AnoThemeDark'></a>
 
-<strong>Ano Theme - Dark</strong>
+###  Ano Theme - Dark
 
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme.png' alt='theme' />
 
-## Color Palette
+#### Color Palette
 
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/ano-theme-bg.png' alt='palette' style='width: 100%' />
 

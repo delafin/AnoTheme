@@ -54,7 +54,7 @@ Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) befo
 
 ## Override Theme Colors
 
-In addition to the default color scheme provided by this VS Code theme, you have the flexibility to override specific colors and further customize the visual appearance of your coding environment. The "Override theme colors" feature allows you to personalize the theme by modifying specific color values. Here are some examples of how you can utilize this feature:
+In addition to the default color scheme provided by this VS Code theme, you have the flexibility to override specific colors and further customize the visual appearance of your coding environment. The "Override theme colors" feature allows you to personalize the theme by modifying specific color values. Explore code highlighting and structure in VS Code with `Inspect Editor Tokens and Scopes`. Gain deeper insights into your code editor's inner workings. Here are some examples of how you can utilize this features:
 
 ```js
 // Modify colors such as syntax highlighting to suit your preferences.

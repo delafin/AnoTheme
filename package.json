@@ -14,11 +14,14 @@
 	},
 	"keywords": [
 		"Ano Theme",
-		"Ano Theme - Dark",
+		"color-theme",
+		"theme",
 		"Oceanic Next",
 		"Rainbow",
+		"Pastel colors",
 		"Dark theme",
-		"VS Code Theme"
+		"Sublime",
+		"Atom",
 	],
 	"icon": "icons/ano-theme-icon.png",
 	"engines": {

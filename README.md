@@ -3,13 +3,13 @@
 ## Navigation:
 
 - <strong>Previev</strong>
-  - [<strong>Ano Theme - Dark</strong>](<#AnoThemeDark>)
-- [<strong>Installation</strong>](<#Installation>)
-- [<strong>Recommended Settings</strong>](<#RecommendedSettings>)
-- [<strong>Override Theme Colors</strong>](<#OverrideThemeColors>)
-- [<strong>Contributing</strong>](<#Contributing>)
-- [<strong>Supporting</strong>](<#Supporting>)
-- [<strong>License</strong>](<#License>)
+  - [<strong>Ano Theme - Dark</strong>](#AnoThemeDark)
+- [<strong>Installation</strong>](#Installation)
+- [<strong>Recommended Settings</strong>](#RecommendedSettings)
+- [<strong>Override Theme Colors</strong>](#OverrideThemeColors)
+- [<strong>Contributing</strong>](#Contributing)
+- [<strong>Supporting</strong>](#Supporting)
+- [<strong>License</strong>](#License)
 
 ## Previev:
 

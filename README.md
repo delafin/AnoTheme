@@ -92,7 +92,7 @@ If you'd like to contribute to this theme, please read the [contributing guideli
 </p>
 
 <div align='center' style='display: flex; align-items: start; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px'>
-<a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/icons/buymeacoffee-orange.png' alt='Buy Me A Coffee' style='height: 40px !important; width: 140px !important; max-width: 150px !important; margin-right: 20px'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/icons/patreon.png' alt='Patreon' style='height: 40px !important;width: 160px !important; max-width: 170px !important;'></a>
+<a href='https://www.buymeacoffee.com/lifinhime' target='_blank'><img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/icons/buymeacoffee-orange.png' alt='Buy Me A Coffee' style='height: 40px !important; width: 140px !important; max-width: 150px !important'></a>&nbsp;&emsp;&nbsp;<a href='https://www.patreon.com/lifinhime' target='_blank'><img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/icons/patreon.png' alt='Patreon' style='height: 40px !important;width: 160px !important; max-width: 170px !important;'></a>
 
 </div>
 

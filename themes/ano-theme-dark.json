@@ -95,7 +95,7 @@
 		"list.warningForeground": "#d19a66",
 		"menu.background": "#343a45",
 		"menu.foreground": "#abb2bf",
-		"menu.selectionBackground": "#383838",
+		"menu.selectionBackground": "#2e333d",
 		"menu.selectionBorder": "#c8c8c859",
 		"menu.separatorBackground": "#343a45",
 		"merge.commonContentBackground": "#60606029",

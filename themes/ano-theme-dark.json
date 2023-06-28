@@ -141,7 +141,7 @@
 		"tab.activeBorder": "#b4b4b4",
 		"tab.activeForeground": "#dcdcdc",
 		"tab.border": "#252830",
-		"tab.hoverBackground": "#323842",
+		"tab.hoverBackground": "#3a414d",
 		"tab.inactiveBackground": "#21252b",
 		"tab.unfocusedHoverBackground": "#323842",
 		"terminal.ansiBlack": "#3f4451",
@@ -170,7 +170,7 @@
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.inactiveBackground": "#21252b",
 		"titleBar.inactiveForeground": "#6b717d",
-		"toolbar.hoverBackground": "#344361",
+		"toolbar.hoverBackground": "#343a45",
 		"tree.indentGuidesStroke": "#ffffff1d",
 		"walkThrough.embeddedEditorBackground": "#2e3440"
 	},

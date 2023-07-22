@@ -6,12 +6,20 @@
 
 ### Ano Theme - Dark
 
+#### Syntax
+
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-dark-syntax.png' alt='theme-dark-syntax' />
-<p>&emsp;</p>
+
+#### Menu
+
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-dark-menu.png' alt='theme-dark-menu' />
-<p>&emsp;</p>
+
+#### Terminal
+
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-dark-terminal.png' alt='theme-dark-terminal' />
-<p>&emsp;</p>
+
+#### Overview
+
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-dark-overview.png' alt='theme-dark-overview' />
 
 #### Color Palette

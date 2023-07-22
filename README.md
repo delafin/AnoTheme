@@ -4,7 +4,13 @@
 
 <a name='AnoThemeDark'></a>
 
-###  Ano Theme - Dark
+### Ano Theme - Dark
+
+<img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-2.png' alt='theme-2' />
+
+<img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-3.2.png' alt='theme-3.2' />
+
+<img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme-5.png' alt='theme-5' />
 
 <img src='https://raw.githubusercontent.com/delafin/AnoTheme/main/images/theme.png' alt='theme' />
 
@@ -50,6 +56,7 @@ Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install) befo
 "editor.fontLigatures": true,
 "editor.letterSpacing": 0.4,
 ```
+
 <a name='OverrideThemeColors'></a>
 
 ## Override Theme Colors
@@ -77,6 +84,7 @@ In addition to the default color scheme provided by this VS Code theme, you have
 },
 
 ```
+
 <a name='Contributing'></a>
 
 ## Contributing
